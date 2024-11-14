@@ -1,7 +1,10 @@
-#  Flutter Application
- 
-## Project Structure 
+# Flutter Application
 
+This Flutter application showcases a modern UI with custom navigation, onboarding, login, and cart screens. It also integrates popular packages like Google Fonts, Get for state management, and Iconsax for modern icons.
+
+## Project Structure
+
+```plaintext
 lib
 ├── main.dart              # Entry point of the application
 ├── checkout.dart          # Checkout screen
@@ -14,6 +17,7 @@ lib
      ├── cart.dart          # Cart page
      └── setting.dart       # Settings page
 
+```
 
 ## Features
 
