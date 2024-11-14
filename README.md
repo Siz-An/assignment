@@ -1,4 +1,18 @@
 #  Flutter Application
+ 
+## Project Structure 
+
+lib
+├── main.dart              # Entry point of the application
+├── checkout.dart          # Checkout screen
+├── login.dart             # Login screen
+├── onboarding.dart        # Onboarding screen
+└── navpages               # Folder for navigation-related pages
+     ├── navbar.dart        # Custom navigation bar
+     ├── homepage.dart      # Dashboard page
+     ├── profile.dart       # Profile page
+     ├── cart.dart          # Cart page
+     └── setting.dart       # Settings page
 
 
 ## Features
