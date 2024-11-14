@@ -1,6 +1,5 @@
-# POS Flutter Application
+#  Flutter Application
 
-A Flutter POS (Point of Sale) application featuring a clean and user-friendly design with navigation between dashboard, profile, cart, and settings pages.
 
 ## Features
 
@@ -23,7 +22,6 @@ A Flutter POS (Point of Sale) application featuring a clean and user-friendly de
 |----------------------------------------|
 | ![Cart2](assets/screenshots/cart2.png) |
 
-> **Note:** Please add your screenshots in the `screenshots` directory to display them in this README.
 
 ## Dependencies
 
